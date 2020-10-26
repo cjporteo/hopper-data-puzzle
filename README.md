@@ -1,6 +1,6 @@
 # 🐇 Hopper Data Puzzle ✈
 
-My solution and thought process for the Hopper data puzzle. asdf
+My solution and thought process for the Hopper data puzzle.
 
 ## 💭 About
 
